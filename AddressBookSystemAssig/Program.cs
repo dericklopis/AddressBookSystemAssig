@@ -41,7 +41,7 @@ namespace AddressBookSystemAssig
                         person.CreateDict();
                         break;
                     case 6:
-                        //person.DisplayDict();
+                        person.DisplayDict();
                         break;
 
                     default:
