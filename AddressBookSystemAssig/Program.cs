@@ -13,6 +13,7 @@ namespace AddressBookSystemAssig
                 Contact person = new Contact();
                 person.addcontact();
                 person.EditContact();
+                person.RemoveDetails();
             }
     }
 }
